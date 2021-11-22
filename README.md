@@ -1,12 +1,18 @@
 **ShriOS initial release to community**
+
 Please report all concerns at my telegram channel **https://t.me/osshri**
 #
 **ShriOS** is an **archlinux** based operating system.
+
 ShriOS comes with **cinnamon desktop** and lightdm desktop manager.
+
 ShriOS is just very close to **default installation without any modification**.
+
 ShriOS uses kernel capability to load ntfs partitions, ntfs-3g is
 no more installed by default however you are free to install it.
+
 **Chaotic repository enabled by default**.
+
 Additional software like **Google chrome can be installed**
 with chaotic repo through pacman or pamac gui.
 #
@@ -20,8 +26,8 @@ with chaotic repo through pacman or pamac gui.
 8. Vanilla OS
 9. No Bloatware
 10. Calamares Installer
-# 
-# Pre installed apps in ShriOS are:
+#
+**Pre installed apps in ShriOS are:**
 1. Nemo - File manager
 2. Pamac - Software manager
 3. File roller - Archive manager
@@ -50,16 +56,19 @@ with chaotic repo through pacman or pamac gui.
 26. You can install virtualbox without any hassles.
 #
 Please Note: Right now it is under TEST phase.
+
 Also Note: ShriOS is 3 months young baby.
-#
+
 # Your reviews are more than welcome.
-# 
-*thank you Community
+
+thank you Community
+
 thank you Testers
+
 thank you Archlinux
+
 thank you Cinnamon
+
 thank you Gnome
-thank you Calamares*
-#
-#
-#
+
+thank you Calamares
