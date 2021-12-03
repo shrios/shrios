@@ -1,6 +1,5 @@
 **ShriOS initial release to community**
 
-Please report all concerns at my telegram channel **https://t.me/osshri**
 #
 **ShriOS** is an **archlinux** based operating system.
 
